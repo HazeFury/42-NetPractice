@@ -93,5 +93,17 @@ The **OSI (Open Systems Interconnection) model** is a theoretical 7-layer framew
   <br>
 </div>
 
+### Documentation
+
+OpenClassrooms tutorial:
+https://openclassrooms.com/fr/courses/6944606-concevez-votre-reseau-tcp-ip
+
+Zeste de Savoir tutorial "les réseaux de zéro":
+https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/le-concept-et-les-bases/
+
+Subnet sheet :
+https://www.aelius.com/njh/subnet_sheet.html
+
+
 ### AI Usage
 Artificial Intelligence (Gemini) was utilized as a pedagogical tutor during the learning phase of this project. Specifically, AI was used as a thought partner to break down the mathematical logic behind binary subnet masking, to explain the concept of CIDR notation and route summarization, and to review and refine the English phrasing within this README file. No AI was used to generate the final network configuration solutions, which were solved manually.
